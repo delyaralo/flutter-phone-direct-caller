@@ -6,7 +6,6 @@ repository: https://github.com/yanisalfian/flutter-phone-direct-caller
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
-  flutter: ">=2.0.0"
 
 
 dependencies:
